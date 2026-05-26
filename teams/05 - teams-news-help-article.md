@@ -9,7 +9,7 @@ News items are organized into two sections:
 - **Active** — current news that is still relevant
 - **Archived** — news that has been marked as done
 
-A news item moves to Archived once it's ticked off as done on the left side of the item. Archiving is reversible — you can move an item back to Active at any time if it becomes relevant again.
+A news item can be archived once it's been ticked off as done on the left side of the item. Before that, the **Archive** option in the Additional settings dropdown (⁝) is grayed out and unavailable — ticking the item off is what enables it. Archiving itself is then a separate manual step done through that menu. Archiving is reversible — you can move an item back to Active at any time if it becomes relevant again.
 
 ## What's included in a news item
 
@@ -39,7 +39,7 @@ Descriptions provide additional context, while linked items connect the update t
 
 Each news row follows a consistent layout. Reading left to right, you'll see:
 
-1. **"Done" checkmark** — clicking this ticks the news item off as done and archives it.
+1. **"Done" checkmark** — clicking this marks the news item as done. It doesn't archive the item; that's a separate step.
 2. **News title** — the headline of the update.
 3. **Owner** — the user accountable for the update.
 4. **Notes** — the Notes icon, with a number badge if Notes exist.
@@ -55,7 +55,8 @@ If an element isn't set on a given news item (for example, no Notes have been ad
 4. Add the required fields.
 5. Optionally add a description or related links.
 6. Save the update.
-7. Tick the item off as done on its left side to archive it when it's no longer current.
+7. Tick the item off as done on its left side when it's no longer current.
+8. Archive the news item from the Additional settings dropdown (⁝) once you're ready to move it out of the Active list.
 
 ## Using linked items
 
@@ -94,7 +95,7 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 
 ## Best practices
 
-- Keep the Active section focused by archiving outdated updates.
+- Keep the Active section focused by archiving outdated updates from the Additional settings dropdown (⁝) — ticking an item off doesn't archive it on its own.
 - Use clear, descriptive titles so updates are easy to scan.
 - Add descriptions when the title alone does not provide enough context.
 - Link related work items so teams can quickly access supporting details.
@@ -103,7 +104,8 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 
 ## Things to keep in mind
 
-- Archived news remains accessible for reference, and archiving is reversible — items can be moved back to Active.
+- The Archive option is grayed out until a news item is ticked off as done. Archiving itself is a separate manual step from the Additional settings dropdown (⁝), and is reversible.
+- Archived news remains accessible for reference.
 - Deleting a news item is permanent, and any Notes on it are deleted with it.
 - A news item belongs to one team. It can be moved to another team, but it can't be co-owned.
 - News visibility is tied to the team where it was created.
