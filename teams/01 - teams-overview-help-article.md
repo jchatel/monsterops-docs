@@ -43,7 +43,7 @@ Most actions inside a team are open to all members, regardless of their Organiza
 - Creating meetings and acting as host
 - Editing meeting notes from Past Meetings
 
-The main exception inside a team is the **Danger zone** in Team Settings, where deleting a team is restricted to **Super Admins** (an internal access level above Owner / Admin / Member). Regular Admins cannot delete teams through the product.
+The main exception inside a team is the **Danger zone** in Team Settings, where deleting a team is restricted to the **Owner** and **Super Admins** (an internal access level above Owner / Admin / Member). Regular Admins cannot delete teams through the product.
 
 See the individual articles below for more on how each team tab works.
 
