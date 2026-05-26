@@ -30,7 +30,7 @@ Time-based and cross-team views.
 - 01: `views-calendar-help-article.md` — the Calendar view
 
 ### 04 — Teams
-Where day-to-day work happens. One landing page plus one article per tab.
+Where day-to-day work happens.
 
 - 01: `teams-overview-help-article.md` — category landing page
 - 02: `teams-dashboard-help-article.md` — Team Dashboard tab
