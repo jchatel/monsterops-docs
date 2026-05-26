@@ -47,10 +47,14 @@ History is useful when you need to understand how an item got to its current sta
 
 ### Archive
 
-Moves the item to its Archived view. Archiving is reversible, and the trigger varies by item type:
+Moves the item to its Archived view. Archiving is always a manual step done through the Additional settings dropdown (⁝). By default, the **Archive** option in that menu is grayed out and unavailable — each item type has a prerequisite that must be met before the option becomes active:
 
-- **News, To-dos, Issues** — tick the item off as done/solved on its left side
-- **Rocks** — mark the Rock as Completed
+- **News** — tick the item off as done on its left side
+- **Issues** — tick the item off as solved on its left side
+- **To-dos** — tick the item off as done on its left side
+- **Rocks** — mark the Rock as **Completed**
+
+Once the prerequisite is met, the Archive option becomes available in the ⁝ menu. Archiving is reversible for all item types that support it.
 
 Note that **KPIs cannot be archived**, only deleted.
 
