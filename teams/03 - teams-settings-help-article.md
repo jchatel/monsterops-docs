@@ -32,9 +32,9 @@ Coming from another software? You can import your scorecard history into Monster
 
 ### Danger zone
 
-The Danger zone contains the option to permanently delete the team. This option is visible to everyone but **cannot be used by Owners, Admins, or Members through the product** — only **Super Admins** (an internal access level above the standard Owner/Admin/Member roles) can actually delete a team.
+The Danger zone contains the option to permanently delete the team. This option is visible to everyone but **cannot be used by Admins or Members through the product** — only the **Owner** and **Super Admins** (an internal access level above the standard Owner/Admin/Member roles) can actually delete a team.
 
-If you need a team removed, contact support to escalate the request.
+If you need a team removed, contact the organization owner or support to escalate the request.
 
 ## Best practices
 
