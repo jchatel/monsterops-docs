@@ -8,9 +8,9 @@ Issues are organized into three sections:
 
 - **Short term** — Issues that require near-term attention or are impacting current work
 - **Long term** — Issues that should be tracked or revisited later
-- **Archived** — Issues that have been ticked off as solved
+- **Archived** — Issues that have been moved out of the Short term or Long term sections
 
-An Issue moves to Archived once it's ticked off as solved on the left side of the item. Archiving is reversible — you can move an Issue back to Short term or Long term if it needs to be reopened. This structure helps teams separate urgent work from lower-priority or future concerns.
+An Issue can be archived once it's been ticked off as solved on the left side of the item. Before that, the **Archive** option in the Additional settings dropdown (⁝) is grayed out and unavailable — ticking the Issue off as solved is what enables it. Archiving itself is then a separate manual step done through that menu. Archiving is reversible — you can move an Issue back to Short term or Long term if it needs to be reopened. This structure helps teams separate urgent work from lower-priority or future concerns.
 
 ## What's included in an Issue
 
@@ -46,7 +46,7 @@ Linked items help connect Issues to related work such as:
 
 Each Issue row follows a consistent layout. Reading left to right, you'll see:
 
-1. **Solved checkmark** — clicking this ticks the Issue off as solved and archives it.
+1. **Solved checkmark** — clicking this marks the Issue as solved. It doesn't archive the item; that's a separate step.
 2. **Priority** — represented visually as **tally marks** (see below).
 3. **Issue title** — the description of the obstacle or risk.
 4. **Owner** — the user accountable for resolving the Issue. Internally this field is called "Assignee," but it appears as "Owner" in the list view.
@@ -89,7 +89,8 @@ The Timeframe determines whether an Issue appears in the Short term or Long term
 5. Set the appropriate timeframe and priority.
 6. Optionally link related items.
 7. Save the Issue.
-8. Tick the Issue off as solved on its left side to archive it once resolved.
+8. Tick the Issue off as solved on its left side once resolved.
+9. Archive the Issue from the Additional settings dropdown (⁝) once you're ready to move it out of the Short term or Long term list.
 
 ## Adding Notes to an Issue
 
@@ -118,13 +119,13 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 - Reserve the highest priorities for Issues that require immediate action.
 - Use Short term only for active blockers or urgent concerns.
 - Assign every Issue to a clear owner.
-- Archive resolved Issues to keep active lists focused.
+- Archive resolved Issues from the Additional settings dropdown (⁝) to keep active lists focused — ticking one off as solved doesn't archive it on its own.
 - Review open Issues regularly during team meetings.
 - Use Notes to capture discussion and decisions, so the Issue's history travels with it rather than getting lost in chat or meeting recaps.
 
 ## Things to keep in mind
 
-- An Issue is archived by ticking it off as solved, and archiving is reversible.
+- The Archive option is grayed out until an Issue is ticked off as solved. Archiving itself is a separate manual step from the Additional settings dropdown (⁝), and is reversible.
 - Deleting an Issue is permanent, and any Notes on it are deleted with it.
 - An Issue belongs to one team. It can be moved to another team or assignee, but it can't be co-owned.
 - Priority determines how Issues should be reviewed and escalated.
