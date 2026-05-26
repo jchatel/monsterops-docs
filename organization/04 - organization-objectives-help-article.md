@@ -18,7 +18,7 @@ Linking these levels together is what allows progress to flow upward — from we
 
 ## Create an Objective
 
-1. Navigate to **Objectives** in your workspace.
+1. Navigate to **Objectives** in your team.
 2. Click to create a new Objective and set a target date.
 3. Open a Rock and link it to the relevant Objective.
 4. Return to the **Objectives** screen to see combined progress across all linked Rocks.

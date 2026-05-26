@@ -33,7 +33,7 @@ The Organization has three permission levels:
 - **Admin**
 - **Member**
 
-Permission gating only applies in a small number of places — primarily Organization Settings (Owner and Admin only) and changing other users' permission levels (Owner and Admin only). Most everyday actions, including creating and editing workspace items, managing team membership, and creating Objectives, are open to anyone in the team.
+Permission gating only applies in a small number of places — primarily Organization Settings (Owner and Admin only) and changing other users' permission levels (Owner and Admin only). Most everyday actions, including creating and editing items, managing team membership, and creating Objectives, are open to anyone in the team.
 
 A separate **Super Admin** level exists for internal access and is required for some destructive actions like deleting a team. Super Admin is distinct from Admin.
 
