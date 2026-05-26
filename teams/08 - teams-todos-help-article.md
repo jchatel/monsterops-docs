@@ -6,10 +6,10 @@ The To-dos tab helps teams manage short-term action items and day-to-day work. U
 
 To-dos are organized into two sections:
 
-- **Active** — current work that still needs to be completed
-- **Archived** — To-dos that have been ticked off as done
+- **Active** — current work, including To-dos that haven't been started and ones that have been ticked off as done but haven't been archived yet
+- **Archived** — To-dos that have been moved out of the Active view
 
-A To-do moves to Archived once it's ticked off as done on the left side of the item. Archiving is reversible — you can move a To-do back to Active if it needs to be re-opened. Active To-dos also appear on the Team Dashboard, where they can be ticked off directly without opening the To-dos tab.
+Ticking a To-do off as done on the left side of the item marks it complete. Before that, the **Archive** option in the Additional settings dropdown (⁝) is grayed out and unavailable — ticking the To-do off is what enables it. Archiving itself is then a separate manual step done through that menu. Archiving is reversible — you can move a To-do back to Active if it needs to be re-opened. Active To-dos also appear on the Team Dashboard, where they can be ticked off directly without opening the To-dos tab.
 
 ## What's included in a To-do
 
@@ -41,7 +41,7 @@ These fields help provide context, organization, and visibility into connected w
 
 Each To-do row follows a consistent layout. Reading left to right, you'll see:
 
-1. **"Done" checkmark** — clicking this ticks the To-do off as done and archives it.
+1. **"Done" checkmark** — clicking this marks the To-do as done. It doesn't archive the item; that's a separate step.
 2. **To-do title** — the name of the action item.
 3. **Owner** — the user accountable for completing the To-do. Internally this field is called "Assignee," but it appears as "Owner" in the list view.
 4. **Due date** — the To-do's target completion date. If the date is past due, it's displayed in red.
@@ -71,7 +71,8 @@ This helps teams understand how short-term work supports larger priorities.
 4. Add the required fields.
 5. Optionally add due dates, tags, descriptions, or linked items.
 6. Save the To-do.
-7. Tick the To-do off as done on its left side to archive it when it's complete.
+7. Tick the To-do off as done on its left side when the work is complete.
+8. Archive the To-do from the Additional settings dropdown (⁝) once you're ready to move it out of the Active list.
 
 ## Adding Notes to a To-do
 
@@ -100,13 +101,13 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 - Assign every To-do to a clear owner.
 - Add due dates to time-sensitive work.
 - Use tags to organize related To-dos.
-- Keep the Active list focused by archiving completed work.
+- Keep the Active list focused by archiving completed To-dos from the Additional settings dropdown (⁝) — ticking one off doesn't archive it on its own.
 - Review Active To-dos regularly to prevent overdue items.
 - Use Notes to capture quick updates and blockers as work progresses, so context stays with the To-do instead of living in chat.
 
 ## Things to keep in mind
 
-- A To-do is archived by ticking it off as done, and archiving is reversible.
+- The Archive option is grayed out until a To-do is ticked off as done. Archiving itself is a separate manual step from the Additional settings dropdown (⁝), and is reversible.
 - Deleting a To-do is permanent, and any Notes on it are deleted with it.
 - A To-do belongs to one team. It can be moved to another team or owner, but it can't be co-owned.
 - Active To-dos appear on the Team Dashboard automatically.
