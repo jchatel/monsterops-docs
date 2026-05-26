@@ -22,7 +22,7 @@ Keeping statuses updated helps teams quickly understand progress and identify wo
 
 Each Rock status has its own icon and color so you can identify a Rock's state at a glance. All status icons sit inside a circle:
 
-- **On-Track** — green circle with a **point** icon
+- **On-Track** — green circle with a **dot** icon
 - **At Risk** — yellow circle with a **question mark**
 - **Off-Track** — orange circle with an **exclamation point**
 - **Completed** — blue circle with a **check mark**
@@ -42,7 +42,7 @@ Planned Rocks are approved for upcoming work but have not started yet. Use this 
 
 ### Archived
 
-A Rock can be archived once it's marked as **Completed**. Archived Rocks are kept for historical reference, and archiving is reversible — you can move an archived Rock back at any time if it needs to become active again.
+A Rock can be archived once it's marked as **Completed**. Before that, the **Archive** option in the Additional settings dropdown (⁝) is grayed out and unavailable — marking the Rock Completed is what enables it. Archiving itself is then a separate manual step done through that menu. Archived Rocks are kept for historical reference, and archiving is reversible — you can move an archived Rock back at any time if it needs to become active again.
 
 ## What's included in a Rock
 
@@ -123,7 +123,7 @@ You can connect a Rock to a company Objective to align team work with larger goa
 4. Add the required fields.
 5. Optionally add milestones, due dates, tags, or linked items.
 6. Update the Rock status as work progresses.
-7. Move completed or inactive Rocks to Archived when appropriate.
+7. Archive completed or inactive Rocks from the Additional settings dropdown (⁝) when appropriate.
 
 ## Adding Notes to a Rock
 
@@ -158,7 +158,7 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 
 ## Things to keep in mind
 
-- A Rock can be archived once it's marked as Completed, and archiving is reversible.
+- The Archive option is grayed out until a Rock is marked as Completed. Archiving itself is a separate manual step from the Additional settings dropdown (⁝), and is reversible.
 - Deleting a Rock is permanent, and any Notes on it are deleted with it.
 - A Rock belongs to one team. You can move it to another team or change its owner, but it can't be co-owned.
 - Rock status affects how work appears in the Active view.
