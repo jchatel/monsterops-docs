@@ -1,6 +1,6 @@
 # Using the Meetings tab
 
-The Meetings tab is where a team runs its structured sessions. It brings several areas of the team Workspace — like KPIs, To-dos, and Issues — together into one guided experience, with each meeting following the structure defined by an Agenda.
+The Meetings tab is where a team runs its structured sessions. It brings several areas of the team — like KPIs, To-dos, and Issues — together into one guided experience, with each meeting following the structure defined by an Agenda.
 
 ## How it works
 
@@ -50,7 +50,7 @@ A timer displays the allocated time for the current section. The host has two co
 
 ### Working inside meeting sections
 
-Certain sections let you interact with the underlying data directly inside the meeting, including KPIs and To-dos. Changes you make during a meeting are saved to the workspace in real time, so updates to a KPI or a checked-off To-do persist after the meeting ends.
+Certain sections let you interact with the underlying data directly inside the meeting, including KPIs and To-dos. Changes you make during a meeting save in real time, so updates to a KPI or a checked-off To-do persist after the meeting ends.
 
 ### Deck View for Rocks
 
@@ -118,7 +118,7 @@ Below the graph is the full list of past meetings. Selecting any meeting opens i
 - **Attendees** — who was present
 - **Total time spent** — shown both in the overall timer and broken down by section in the left-side panel, just as it appeared during the meeting
 - **Recap** — a summary of what happened in the meeting
-- **Changes made during the meeting** — any updates to KPIs, To-dos, or other workspace items that happened in real time during the session
+- **Changes made during the meeting** — any updates to KPIs, To-dos, or other items that happened in real time during the session
 - **Attendee scores** — the host's 1–10 ratings and any feedback they left
 - **Meeting notes** — the notes written or summarized in the Conclusion section. Any team member can add to or edit these notes from Past Meetings, including pasting a transcript to be summarized after the meeting has ended.
 
@@ -140,7 +140,7 @@ Agendas are templates that define what a meeting will contain. Because Agendas a
 - "Members" refers to anyone on the team; "attendees" refers specifically to members who are present in the meeting.
 - A meeting can't be started without selecting an Agenda first.
 - Attendance is set before the meeting starts and can't be changed mid-meeting.
-- Changes made to KPIs, To-dos, and other workspace items during a meeting save in real time and persist after the meeting ends.
+- Changes made to KPIs, To-dos, and other items during a meeting save in real time and persist after the meeting ends.
 - Leaving a meeting only removes you from the session; only the host can finish the meeting for everyone.
 - Past Meetings preserve attendance, time spent per section, recap, changes, scores, and notes for future reference.
 - The default Weekly Team Meeting agenda is a starting point — teams can adjust or create new agendas to fit their own meeting rhythms.

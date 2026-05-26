@@ -82,7 +82,7 @@ The Timeframe determines whether an Issue appears in the Short term or Long term
 
 ## Create and manage Issues
 
-1. Open a team Workspace.
+1. Open a team.
 2. Select the **Issues** tab.
 3. Create or open an Issue.
 4. Add the required fields.

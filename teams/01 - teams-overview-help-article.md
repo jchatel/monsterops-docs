@@ -1,10 +1,10 @@
 # Working with Teams
 
-A team is where the day-to-day work of MonsterOps happens. Each team has its own workspace inside the Organization, organized into a set of tabs for tracking priorities, metrics, action items, and meetings. This article gives you the map.
+A team is where the day-to-day work of MonsterOps happens. Each team sits inside the Organization and is organized into a set of tabs for tracking priorities, metrics, action items, and meetings. This article gives you the map.
 
 ## How a team is structured
 
-When you select a team from the left-side navigation, you open its workspace. Every team includes the following tabs:
+When you select a team from the left-side navigation, you open it. Every team includes the following tabs:
 
 - **Team Dashboard** — a roll-up view of the team's KPIs, To-dos, Rocks, and Issues at a glance
 - **News** — team updates, announcements, and activity
@@ -34,7 +34,7 @@ Similarly, "Settings" exists at both levels but with different scope and differe
 
 Most actions inside a team are open to all members, regardless of their Organization-level permission level (Owner, Admin, or Member). This includes:
 
-- Creating, editing, archiving, and deleting workspace items (News, Rocks, KPIs, To-dos, Issues)
+- Creating, editing, archiving, and deleting items (News, Rocks, KPIs, To-dos, Issues)
 - Adding and removing Notes on those items
 - Linking items together
 - Inviting new team members and approving email domains
@@ -43,7 +43,7 @@ Most actions inside a team are open to all members, regardless of their Organiza
 - Creating meetings and acting as host
 - Editing meeting notes from Past Meetings
 
-The main exception inside a team workspace is the **Danger zone** in Team Settings, where deleting a team is restricted to **Super Admins** (an internal access level above Owner / Admin / Member). Regular Admins cannot delete teams through the product.
+The main exception inside a team is the **Danger zone** in Team Settings, where deleting a team is restricted to **Super Admins** (an internal access level above Owner / Admin / Member). Regular Admins cannot delete teams through the product.
 
 See the individual articles below for more on how each team tab works.
 

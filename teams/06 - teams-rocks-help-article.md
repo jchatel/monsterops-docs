@@ -22,7 +22,7 @@ Keeping statuses updated helps teams quickly understand progress and identify wo
 
 Each Rock status has its own icon and color so you can identify a Rock's state at a glance. All status icons sit inside a circle:
 
-- **On-Track** — green circle with a **dot** icon
+- **On-Track** — green circle with a **point** icon
 - **At Risk** — yellow circle with a **question mark**
 - **Off-Track** — orange circle with an **exclamation point**
 - **Completed** — blue circle with a **check mark**
@@ -117,7 +117,7 @@ You can connect a Rock to a company Objective to align team work with larger goa
 
 ## Create and manage Rocks
 
-1. Open a team Workspace.
+1. Open a team.
 2. Select the **Rocks** tab.
 3. Create or open a Rock.
 4. Add the required fields.

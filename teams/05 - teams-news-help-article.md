@@ -49,7 +49,7 @@ If an element isn't set on a given news item (for example, no Notes have been ad
 
 ## Create and manage news
 
-1. Open a team Workspace.
+1. Open a team.
 2. Select the **News** tab.
 3. Create or open a news item.
 4. Add the required fields.
@@ -106,8 +106,8 @@ Your Note appears in the thread alongside any earlier Notes, so the full history
 - Archived news remains accessible for reference, and archiving is reversible — items can be moved back to Active.
 - Deleting a news item is permanent, and any Notes on it are deleted with it.
 - A news item belongs to one team. It can be moved to another team, but it can't be co-owned.
-- News visibility is tied to the team Workspace where it was created.
-- Linked items help connect updates to ongoing work across the Workspace.
+- News visibility is tied to the team where it was created.
+- Linked items help connect updates to ongoing work across the team.
 
 ## Related articles
 

@@ -124,7 +124,7 @@ Linking a KPI to a Rock ties ongoing measurement to the priority it supports, so
 
 ## Create and manage KPIs
 
-1. Open a team Workspace.
+1. Open a team.
 2. Select the **KPIs** tab.
 3. Create or open a KPI.
 4. Add the required fields, including Supported Views, Interpolation, and Target Type.

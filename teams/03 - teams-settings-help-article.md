@@ -4,11 +4,11 @@ The Team Settings section is where you configure a team — updating its name, c
 
 ## How it works
 
-Like Team Members, Team Settings is accessed directly from the team rather than from a tab inside the workspace. **Any team member can change Team Settings**, regardless of their permission level. Team-level settings are not restricted to Owners or Admins; that restriction only applies at the Organization level (see **Organization Settings**).
+Like Team Members, Team Settings is accessed directly from the team rather than from a tab inside it. **Any team member can change Team Settings**, regardless of their permission level. Team-level settings are not restricted to Owners or Admins; that restriction only applies at the Organization level (see **Organization Settings**).
 
 ## Open Team Settings
 
-1. Locate the team in your workspace.
+1. Locate the team in the left-side navigation.
 2. Click the **three dots** on the right side of the team.
 3. Select **Team Settings**.
 
@@ -22,7 +22,7 @@ Update the name of the team. Use this when the team's purpose or scope changes a
 
 ### Google Search Console
 
-Connect Google Search Console to enable team-level integrations. This makes search-related data available within the team's workspace.
+Connect Google Search Console to enable team-level integrations. This makes search-related data available to the team.
 
 ### Import scorecard history
 

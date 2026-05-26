@@ -65,7 +65,7 @@ This helps teams understand how short-term work supports larger priorities.
 
 ## Creating and managing To-dos
 
-1. Open a team Workspace.
+1. Open a team.
 2. Select the **To-dos** tab.
 3. Create or open a To-do.
 4. Add the required fields.

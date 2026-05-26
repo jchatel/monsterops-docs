@@ -110,7 +110,7 @@ A blank step you can use for anything an Agenda doesn't otherwise cover. There i
 ## Things to keep in mind
 
 - Every meeting requires an Agenda to start, so the Agenda you build directly shapes what happens in the meeting.
-- Step types like KPI, News, Issue, Rock, and To-do connect directly to those areas of the team Workspace, and changes made during the meeting save in real time.
+- Step types like KPI, News, Issue, Rock, and To-do connect directly to those areas of the team, and changes made during the meeting save in real time.
 - OS Toolbox and Custom steps don't have a dedicated view yet, so they work best as discussion-led sections.
 - The default Weekly Team Meeting Agenda is editable like any other — you can adjust it instead of creating a new Agenda from scratch.
 

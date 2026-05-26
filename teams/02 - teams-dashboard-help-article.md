@@ -4,7 +4,7 @@ The Team Dashboard gives you a high-level view of your team's activity, prioriti
 
 ## How it works
 
-The **Workspace** is everything in the left-side navigation — your full view of the organization. When you open a team from the Workspace, you enter the team's tabs:
+When you open a team from the left-side navigation, you enter that team's tabs:
 
 - Team Dashboard
 - News
@@ -49,7 +49,7 @@ View the team's most important open Issues that may need attention. Use this sec
 
 ## Using the Team Dashboard
 
-1. Open a team from the Workspace navigation.
+1. Open a team from the left-side navigation.
 2. Select the **Team Dashboard** tab.
 3. Review assigned KPIs and team totals.
 4. Check active To-dos and complete items as needed.
@@ -66,7 +66,7 @@ View the team's most important open Issues that may need attention. Use this sec
 
 ## Things to keep in mind
 
-- The Team Dashboard summarizes information from across the team Workspace.
+- The Team Dashboard summarizes information from across the team.
 - Some updates can be made directly from the dashboard, while others require opening the related section.
 - Dashboard content updates automatically as team activity changes.
 
