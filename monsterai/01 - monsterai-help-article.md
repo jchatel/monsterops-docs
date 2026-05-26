@@ -1,15 +1,15 @@
 # Getting help with MonsterAI
 
-MonsterAI is the built-in assistant designed to help you understand, navigate, and act on your workspace information. Think of it as a helpful teammate sitting alongside you: it can explain features, summarize what's happening in your workspace, find information you don't know where to look for, and help you figure out your next step when you're stuck.
+MonsterAI is the built-in assistant designed to help you understand, navigate, and act on your team's information. Think of it as a helpful teammate sitting alongside you: it can explain features, summarize what's happening across your teams, find information you don't know where to look for, and help you figure out your next step when you're stuck.
 
 ## How it works
 
 MonsterAI draws on two sources to answer your questions:
 
 - **MonsterOps help content** — the articles and documentation that explain how features work
-- **Your workspace data** — where permitted, MonsterAI can look at relevant information from your account and organization to answer questions specific to your team
+- **Your team data** — where permitted, MonsterAI can look at relevant information from your account and Organization to answer questions specific to your team
 
-Workspace data MonsterAI can reference includes:
+Team data MonsterAI can reference includes:
 
 - Teams and users
 - Rocks
@@ -22,18 +22,18 @@ Workspace data MonsterAI can reference includes:
 - Core Values
 - Org Chart details
 
-Because MonsterAI combines product knowledge with your actual workspace data, it can answer both general "how do I do this" questions and specific "what's happening on my team right now" questions in the same conversation.
+Because MonsterAI combines product knowledge with your actual team data, it can answer both general "how do I do this" questions and specific "what's happening on my team right now" questions in the same conversation.
 
 ## What MonsterAI can help with
 
 MonsterAI works best as a guide, summarizer, and explainer. Some of the things it's well suited for:
 
 - **Explaining features** — "What's the difference between a Rock and a To-do?"
-- **Summarizing workspace activity** — "What did my team accomplish last quarter?"
+- **Summarizing team activity** — "What did my team accomplish last quarter?"
 - **Finding information** — "Show me the open issues assigned to me."
 - **Clarifying next steps** — "What should I do to start tracking a new KPI?"
 - **Unblocking you** — "I'm not sure how to link a Rock to an Objective."
-- **Onboarding** — getting new teammates oriented to how the workspace is set up.
+- **Onboarding** — getting new teammates oriented to how their team is set up.
 
 ## Tips for getting the best results
 
@@ -46,7 +46,7 @@ MonsterAI works best as a guide, summarizer, and explainer. Some of the things i
 
 - MonsterAI is primarily designed to help you understand, navigate, and find information. Its ability to take actions on your behalf (such as creating or updating items, or running meeting actions) is still being clarified — for now, treat it as a guide and make changes yourself through the relevant tabs.
 - Like any AI assistant, MonsterAI can occasionally get things wrong. Use it as a guide and verify important answers — especially when acting on numbers or data — by checking the underlying section directly.
-- Its answers are only as current as the workspace data and help content it can access. If something is missing from your workspace, MonsterAI won't be able to summarize it.
+- Its answers are only as current as the data and help content it can access. If something is missing from your team, MonsterAI won't be able to summarize it.
 
 ## Related articles
 
