@@ -8,15 +8,21 @@ This archive contains the full set of MonsterOps help center articles, organized
 Cross-cutting reference material that applies across the product.
 
 - `concepts-glossary-help-article.md` — central glossary of MonsterOps concepts
+- `concepts-ui-navigation-help-article.md` — left sidebar and top bar reference
+- `concepts-get-started-help-article.md` — the guided 4-phase setup checklist
 - `concepts-item-elements-help-article.md` — icons, tags, and shared item controls
 - `concepts-keyboard-shortcuts-help-article.md` — single-key shortcuts for creating items
 - `concepts-linked-items-help-article.md` — how items are linked together
 - `concepts-notes-help-article.md` — using Notes on items
+- `concepts-user-account-help-article.md` — user account controls and User settings page
+- `concepts-user-profile-help-article.md` — viewing a teammate's public profile
 
 ### 02 — Organization
 Top-level entity covering company-wide features and administration.
 
 - `organization-overview-help-article.md` — category landing page
+- `organization-create-help-article.md` — creating a new Organization
+- `organization-dashboard-help-article.md` — the Organization Dashboard
 - `organization-objectives-help-article.md` — company-level goals
 - `organization-org-chart-help-article.md` — role-based company structure
 - `organization-core-values-help-article.md` — company values
@@ -49,4 +55,4 @@ The built-in MonsterOps assistant.
 
 - `monsterai-help-article.md` — using MonsterAI
 
-## Total: 25 articles across 5 categories
+## Total: 31 articles across 5 categories
