@@ -35,9 +35,9 @@ This prevents an Organization from accidentally losing all its Owners or leaving
 
 ### Inviting new members
 
-In the top right, the **Invite Team Member** button lets you invite users into the Organization and choose which teams they join. Pending invites appear in their own list below the member list, so you can see who's been invited but hasn't yet joined.
+Inviting people into the Organization is covered in its own guide. See **[Inviting team members]** for how to invite someone and choose which teams they join.
 
-This Organization-level invite is the preferred way to add someone, since it lets you set their team placement up front. For the full walkthrough — including how it compares to a team-level invite and who can invite — see **Inviting team members**.
+Pending invites appear in their own list below the member list, so you can see who's been invited but hasn't yet joined.
 
 ## Things to keep in mind
 
@@ -51,5 +51,5 @@ This Organization-level invite is the preferred way to add someone, since it let
 - Working with your Organization
 - Inviting team members
 - Viewing a teammate's profile
-- Managing Team Members (team-level)
+- Managing team membership (team-level)
 - Organization Settings
