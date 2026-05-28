@@ -6,7 +6,7 @@ The Team Members section is where you invite people to a team, manage who has ac
 
 You access Team Members from the team itself, not from a separate section of the product. Once open, the section shows the team's current members alongside the tools for adding new ones.
 
-Inviting individual members by email is open to anyone in the team. However, two actions in this section are gated to **Owners and Admins**: approving email domains and removing existing members. Members attempting either of these will see a red "Only organization owners or admins can perform this action" popup. Inviting and viewing the member list remain open to everyone.
+Inviting individual members by email is open to Owners, Admins, and Members. However, two actions in this section are gated to **Owners and Admins**: approving email domains and removing existing members. Members attempting either of these will see a red "Only organization owners or admins can perform this action" popup. Inviting and viewing the member list remain open to Owners, Admins, and Members.
 
 ## Open Team Members
 
@@ -19,6 +19,8 @@ This opens the Team Members section for that team.
 ## Invite a teammate by email
 
 Invite individuals directly by entering their email address. This is the most direct way to bring someone onto a team, and works well when you're adding a small number of people whose addresses you already know.
+
+Note that a team-level invite adds the person to this team only. If you already know someone will be on several teams, an Organization-level invite lets you choose all their teams at once — see **Inviting team members** for a comparison of both methods.
 
 ## Invite people by approved email domain
 
@@ -44,7 +46,7 @@ Removing a member from the team is restricted to **Owners and Admins** — when 
 
 ## Things to keep in mind
 
-- Inviting new team members by email is open to all team members.
+- Inviting new team members by email is open to Owners, Admins, and Members.
 - Approving email domains and removing existing members are restricted to **Owners and Admins**. Members will see a red popup if they try.
 - Approved email domains let people join automatically, so be deliberate about which domains you approve.
 - Removing a member revokes their access to the team.
@@ -53,5 +55,6 @@ Removing a member from the team is restricted to **Owners and Admins** — when 
 
 ## Related articles
 
+- Inviting team members
 - Using the Team Dashboard
 - Team Settings
