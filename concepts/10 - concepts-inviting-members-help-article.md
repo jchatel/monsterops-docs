@@ -46,7 +46,7 @@ Members attempting either of those will see a red "Only organization owners or a
 
 ## Inviting by approved email domain
 
-As an alternative to inviting people one at a time, Owners and Admins can approve specific email domains so that anyone with a matching email address can join a team automatically. This is handled in a team's Team Members section and is useful when onboarding a whole company or department at once. See **Managing Team Members** for details.
+As an alternative to inviting people one at a time, Owners and Admins can approve specific email domains so that anyone with a matching email address can join a team automatically. This is set up in a team's Team Members section and is useful when onboarding a whole company or department at once.
 
 ## Best practices
 
@@ -73,6 +73,6 @@ As an alternative to inviting people one at a time, Owners and Admins can approv
 ## Related articles
 
 - Organization Team Members
-- Managing Team Members
+- Managing team membership
 - Working with your Organization
 - Working with Teams
