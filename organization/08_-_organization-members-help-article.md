@@ -41,10 +41,10 @@ In the top right, the **Invite Team Member** button lets you invite users into t
 
 Invites can also be sent from a team's own Team Members section. The difference:
 
-- **Organization-level invites** bring someone into the Organization.
-- **Team-level invites** bring someone onto a specific team.
+- **Organization-level invites** bring someone into the Organization, and let you choose which teams they join.
+- **Team-level invites** bring someone onto a specific team only.
 
-In both cases, the invite is sent to an email address. Anyone in a team can invite new members at the team level.
+In both cases, the invite is sent to an email address. Owners, Admins, and Members can all invite new members at the team level. For a full walkthrough of both methods and when to use each, see **Inviting team members**.
 
 ## Things to keep in mind
 
@@ -56,6 +56,7 @@ In both cases, the invite is sent to an email address. Anyone in a team can invi
 ## Related articles
 
 - Working with your Organization
+- Inviting team members
 - Viewing a teammate's profile
 - Managing Team Members (team-level)
 - Organization Settings
