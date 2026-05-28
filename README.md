@@ -16,6 +16,7 @@ Cross-cutting reference material that applies across the product.
 - `concepts-notes-help-article.md` — using Notes on items
 - `concepts-user-account-help-article.md` — user account controls and User settings page
 - `concepts-user-profile-help-article.md` — viewing a teammate's public profile
+- `concepts-inviting-members-help-article.md` — inviting members at the Organization vs. team level
 
 ### 02 — Organization
 Top-level entity covering company-wide features and administration.
@@ -55,4 +56,4 @@ The built-in MonsterOps assistant.
 
 - `monsterai-help-article.md` — using MonsterAI
 
-## Total: 31 articles across 5 categories
+## Total: 32 articles across 5 categories
