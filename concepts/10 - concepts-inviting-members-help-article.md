@@ -1,10 +1,12 @@
 # Inviting team members
 
-There are two ways to bring new people into MonsterOps: inviting them at the **Organization level** or inviting them at the **team level**. Both send an invite to an email address, but they differ in how much control you have over which teams the new member ends up in. This article covers both and explains when to use each.
+**Looking to invite someone, add a team member, add a new user, or onboard a teammate?** Start here. This is the main guide for inviting people into MonsterOps.
 
-## The two invite methods at a glance
+The short answer: **invite people from the Organization level whenever possible.** An Organization-level invite lets you choose which teams the new member joins, while a team-level invite only ever adds them to a single team. Both are covered below.
 
-- **Organization-level invite** — brings someone into the Organization, and lets you choose which teams they're added to. This is the preferred method.
+There are two ways to invite a new member:
+
+- **Organization-level invite (preferred)** — brings someone into the Organization and lets you choose which teams they're added to.
 - **Team-level invite** — brings someone onto one specific team only.
 
 If you're deciding between them, the Organization-level invite is usually the better choice because it gives you control over team placement up front. A team-level invite only ever adds the person to the single team you invited them from.
@@ -59,6 +61,14 @@ As an alternative to inviting people one at a time, Owners and Admins can approv
 - Organization-level invites let you choose the new member's teams; team-level invites only add them to the team you invited from.
 - Approving email domains and removing members are restricted to Owners and Admins.
 - A person can belong to multiple teams and multiple Organizations, so inviting them somewhere new doesn't remove them from anywhere they already are.
+
+## Common questions
+
+- **How do I invite a team member?** Use an Organization-level invite (preferred) so you can choose their teams, or a team-level invite to add them to one team. See the steps above.
+- **How do I add a new user / new member?** Same as inviting — start with the Organization-level invite.
+- **How do I onboard a new teammate?** Invite them at the Organization level, then optionally walk them through the Get Started flow.
+- **How do I add someone to multiple teams at once?** Use the Organization-level invite, which lets you select multiple teams during the invite. A team-level invite only adds them to one team.
+- **Can a regular Member invite people?** Yes — Owners, Admins, and Members can all send email invites. Only domain approval and member removal are restricted to Owners and Admins.
 
 ## Related articles
 
