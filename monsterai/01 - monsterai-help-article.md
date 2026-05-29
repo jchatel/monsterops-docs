@@ -35,7 +35,7 @@ MonsterAI works best as a guide, summarizer, and explainer. Some of the things i
 - **Unblocking you** — "I'm not sure how to link a Rock to an Objective."
 - **Onboarding** — getting new teammates oriented to how their team is set up.
 
-## Tips for getting the best results
+## Best Practices
 
 - **Be specific.** "Show me at-risk Rocks for the marketing team this quarter" gives MonsterAI more to work with than "show me Rocks."
 - **Ask follow-up questions.** Treat the conversation like a back-and-forth with a teammate — if the first answer isn't quite right, refine your question.
