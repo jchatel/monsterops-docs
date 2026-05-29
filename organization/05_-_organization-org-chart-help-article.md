@@ -29,7 +29,7 @@ This flexibility lets the chart reflect how work is actually distributed, rather
 
 Switch between **Chart** and **Table** view using the toggle in the top right. Chart view is best for seeing reporting lines and overall structure at a glance, while Table view makes it easier to scan roles, owners, and responsibilities in a list. Use **Fit to screen** to reset the chart layout if it drifts off-center.
 
-## Tips for building an effective Org Chart
+## Best Practices
 
 - Focus on functions, not job titles. Structure the chart around what needs to get done rather than who currently does it.
 - Give every role a clear primary owner so accountability is unambiguous, even when multiple users hold the role.
