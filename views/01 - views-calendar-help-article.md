@@ -22,7 +22,7 @@ Selecting an item on a date opens it directly from the Calendar, so you can see 
 
 The Calendar displays one month at a time. Use the month and year selector to move to the period you want to view — there are no separate day or week views, so the monthly layout is your single, consistent way to see what's scheduled. To plan further ahead or review what's already passed, simply change the selected month and year.
 
-## Tips for getting the most out of the Calendar
+## Best Practices
 
 - Use the Calendar as your starting point for the week to get a quick overview of what's scheduled before diving into individual sections.
 - Change the month and year selector to look ahead at upcoming deadlines or to review past activity.
