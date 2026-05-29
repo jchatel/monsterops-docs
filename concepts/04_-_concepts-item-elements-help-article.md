@@ -33,7 +33,12 @@ KPIs are an exception: they don't use the Additional settings dropdown. Instead,
 
 ### Edit
 
-Opens the item to change its fields.
+Opens the item to change its fields. There are two ways to open the edit view:
+
+- **Click the item directly** anywhere on its row. This is the simplest and fastest way, and it works for every item type that supports editing.
+- **Use the Edit option** in the Additional settings dropdown (⁝) for the same result.
+
+Both routes open the same edit view.
 
 ### History
 
