@@ -26,7 +26,7 @@ Core Values can be edited and deleted at any time. Use the standard controls on 
 - Core Values are visible to everyone in the Organization.
 - Deletion is permanent. There's no archive option for Core Values.
 
-## Tips for effective Core Values
+## Best Practices
 
 - Keep names short and specific. A memorable value is one your team can easily recall and reference in everyday decisions.
 - Add a description for each value. It helps your team understand how the value applies day to day, not just in the abstract.
