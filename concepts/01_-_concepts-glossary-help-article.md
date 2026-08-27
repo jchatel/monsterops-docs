@@ -34,7 +34,7 @@ See **Setting and tracking company goals with Objectives** for details.
 
 ## Rock
 
-A Rock is a major priority a team is driving, typically across one quarter. Rocks have a status (On-track, At-risk, Off-track, Completed, Cancelled) and can include milestones — smaller stages of work with their own statuses, owners, and due dates. Rocks can be linked to Objectives so their progress rolls up to company-level goals.
+A Rock is a major priority a team is driving, typically across one quarter. Rocks have a status (On-track, At-risk, Off-track, Completed, Cancelled, Planned and Backlog) and can include milestones — smaller stages of work with their own statuses, owners, and due dates. Rocks can be linked to Objectives so their progress rolls up to company-level goals.
 
 See **Using the Rocks tab** for details.
 
