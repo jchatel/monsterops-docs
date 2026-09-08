@@ -97,6 +97,10 @@ Changing the language applies across the entire interface.
 
 A theme toggle that switches between light and dark mode.
 
+### Start timer during a meeting
+
+While hosting a meeting, you'll also see **Start timer** in the top bar. Click it and choose a duration to timebox a discussion. The countdown and its controls appear across all meeting pages and dialog boxes. Click **X** when you're done. See **Using the Meetings tab** for the full walkthrough.
+
 ## Tips for finding things
 
 - **If you're not sure where you are**, check the breadcrumb in the top bar. It always shows your current location.
@@ -119,3 +123,4 @@ A theme toggle that switches between light and dark mode.
 - Working with Teams
 - Getting help with MonsterAI
 - Keyboard shortcuts
+- Using the Meetings tab

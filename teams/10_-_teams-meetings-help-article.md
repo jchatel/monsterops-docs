@@ -16,7 +16,7 @@ Every meeting requires an Agenda to start. The Agenda determines which sections 
 
 You create a meeting by selecting an Agenda. By default, every team includes a **Weekly Team Meeting** agenda as a starting point, and teams can also create their own agendas for different types of sessions. See **Building and managing Agendas** for details on what's included in the default agenda and how to create your own.
 
-The person who creates the meeting becomes the **meeting host** — any team member can create a meeting and act as the host, regardless of their permission level. The host has additional controls during the meeting, including starting and finishing the session, pausing the timer, triggering the Tangent popup, deleting the meeting, and rating attendees at the end.
+The person who creates the meeting becomes the **meeting host** — any team member can create a meeting and act as the host, regardless of their permission level. The host has additional controls during the meeting, including starting and finishing the session, pausing the section timer, starting a custom timer, triggering the Tangent popup, deleting the meeting, and rating attendees at the end.
 
 Once the meeting is created, attendance begins:
 
@@ -47,6 +47,15 @@ A timer displays the allocated time for the current section. The host has two co
 
 - **Pause the timer** when the discussion needs to step away briefly without burning section time.
 - **Trigger the Tangent popup** when the conversation drifts off track. The popup appears for everyone in the meeting and shows the MonsterOps mascot waving as a visual cue to refocus. Below the popup is a button labeled **"Okay, we are back on track!"** that the host clicks to dismiss it once the discussion is back on topic.
+
+### Custom timer
+
+Use a custom timer to timebox a specific discussion — for example, to spend 10 minutes on an Issue while leaving time for the other topics on your agenda. The meeting host can start a custom timer during the meeting.
+
+1. Click **Start timer** in the top bar, or open a News item, KPI, Rock, To-do, or Issue and click **Start timer** in the footer of its dialog box. This option is visible to the meeting host.
+2. Choose the timer duration.
+3. A countdown with timer controls appears across all meeting pages and dialog boxes, so it stays visible as you move between sections or open items.
+4. When you're done, click **X** to close the custom timer.
 
 ### Working inside meeting sections
 
@@ -130,6 +139,7 @@ Agendas are templates that define what a meeting will contain. Because Agendas a
 
 - Mark attendance honestly at the start so meeting records reflect who actually participated.
 - Use the section timer to keep meetings moving — pause it sparingly, and rely on the Tangent popup when discussion drifts.
+- Use a custom timer to give an individual topic a set amount of discussion time.
 - Take advantage of in-meeting interactions for KPIs and To-dos so updates happen while the team is together, not in a follow-up later.
 - **Pick only 3 Issues to resolve in the meeting** so the team stays focused on the most important topics. Adding To-dos and Issues mid-meeting is fine, but reviewing more than a handful tends to dilute the discussion.
 - Use the Conclusion's notes section consistently — either by writing notes live or pasting a transcript for auto-summarization — so every meeting leaves a clear record.
@@ -137,7 +147,7 @@ Agendas are templates that define what a meeting will contain. Because Agendas a
 
 ## Things to keep in mind
 
-- The meeting host is whoever started the meeting. The host has additional controls including starting and finishing the meeting, managing the timer, triggering the Tangent popup, deleting the meeting, and rating attendees.
+- The meeting host is whoever started the meeting. The host has additional controls including starting and finishing the meeting, managing the section timer, starting a custom timer, triggering the Tangent popup, deleting the meeting, and rating attendees.
 - "Members" refers to anyone on the team; "attendees" refers specifically to members who are present in the meeting.
 - A meeting can't be started without selecting an Agenda first.
 - Attendance is set before the meeting starts and can't be changed mid-meeting.

@@ -67,6 +67,12 @@ Note that **KPIs cannot be archived**, only deleted.
 
 Removes the item permanently. Deletion cannot be undone, and any Notes on the item are deleted with it.
 
+## Custom timer during a meeting
+
+When the meeting host opens a News item, KPI, Rock, To-do, or Issue during a meeting, **Start timer** appears in the footer of the dialog box. Click it and choose a duration to timebox the discussion. The countdown and its controls stay visible across all meeting pages and dialog boxes. Click **X** when you're done.
+
+The host can also start the custom timer from the top bar. See **Using the Meetings tab** for the full walkthrough.
+
 ## Owner vs. Assignee labeling
 
 Most items in MonsterOps use the field name **Owner** (News, Rocks, KPIs). To-dos and Issues use **Assignee** internally — when you create or edit one of these items, you'll see "Assignee" in the form. However, both items display **"Owner"** as the column label in the list view.
@@ -109,3 +115,4 @@ The shared item actions — Edit, History, Archive, and Delete — are open to a
 - Using the To-dos tab
 - Using the Issues tab
 - Using the KPIs tab
+- Using the Meetings tab
